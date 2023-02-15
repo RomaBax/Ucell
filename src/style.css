@@ -1,0 +1,17 @@
+@import "react-alice-carousel/lib/alice-carousel.css";
+
+
+
+.roma1{
+    position : relative;
+     left : 300px
+}
+
+.nav{
+    color: white;
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 25px;
+    position: relative;
+    top: 5px  
+}
